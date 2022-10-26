@@ -102,6 +102,7 @@ a:hover, a:visited{
 
 #menu .sub-menu{
     display: none;
+    position: absolute;
     top: 0;
     left: 200px;
     background-color: #191819;
